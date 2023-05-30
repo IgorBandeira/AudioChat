@@ -1,0 +1,132 @@
+body {
+  background-size: 255%;
+  background-repeat: no-repeat;
+  background-image: url(https://www.mikweb.com.br/wp-content/uploads/2023/03/diferencas-entre-whatsapp-api-e-whatsapp-web-672x372.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+.principal {
+  margin-bottom: 80px;
+}
+
+.celular {
+  width: 27%;
+  height: 100%;
+  border: solid 14px #0d0f0f;
+  border-radius: 35px;
+  margin-bottom: 10px;
+  background-image: url("https://i.pinimg.com/736x/5e/a6/aa/5ea6aadb19661e5843deb3abca4e17f9.jpg");
+  background-size: cover;
+  position: relative;
+}
+
+.superior {
+  background-color: #0d0f0f;
+  height: 18px;
+  width: 130px;
+  border-radius: 2px 2px 14px 14px;
+}
+
+h1 {
+  font-family: "Finger Paint", cursive;
+  font-weight: bolder;
+  line-height: 47px;
+  letter-spacing: 5px;
+}
+
+h2 {
+  font-family: "Finger Paint", cursive;
+  font-weight: bolder;
+  line-height: 35px;
+  letter-spacing: 5px;
+}
+
+h3 {
+  font-family: "Comic Neue", cursive;
+  font-size: 15px;
+  font-weight: bolder;
+}
+
+.mic {
+  width: 20px;
+}
+
+textarea {
+  border: none;
+}
+
+textarea.areatexto {
+  background-color: #005d4b;
+  color: #fff;
+  font-family: "Roboto Condensed", sans-serif;
+  padding: 10px 10px 10px;
+}
+
+.superior-dentro {
+  margin: 0 auto;
+  background-color: #fff;
+  padding-top: 5px;
+  width: 40px;
+  height: 5px;
+  border-radius: 30px;
+}
+
+.areatexto {
+  width: 95%;
+  height: 140px;
+  background-color: #fff;
+  border-radius: 15px;
+  margin: 0 auto;
+}
+
+.mic::before {
+  margin-left: -10px;
+  font-size: 60px;
+  color: #005d4b;
+}
+.fa-whatsapp {
+  font-weight: bolder;
+  color: #fff;
+  font-size: 40px;
+}
+
+.fa-stop-circle:before {
+  font-size: 60px;
+  color: #f34545;
+}
+
+#areatexto {
+  margin: 0 auto;
+  overflow: auto;
+}
+
+@media (min-width: 200px) and (max-width: 1199px) {
+  .celular {
+    width: 50%;
+    height: 100%;
+  }
+
+  h1 {
+    font-size: 2.5rem;
+    line-height: 35px;
+    font-weight: bolder;
+  }
+
+  h2 {
+    font-family: "Finger Paint", cursive;
+    font-weight: bolder;
+    line-height: 35px;
+  }
+
+  h3 {
+    font-size: 15px;
+    font-weight: bolder;
+  }
+
+  .areatexto {
+    width: 95%;
+  }
+}
