@@ -11,7 +11,7 @@ AudioChat converte seu áudio em texto digitado para troca de mensagens, utiliza
 <br>
 <br>
 <div align="center">
-<strong>Perfeito para quem está cansado de digitar todas as mensagens, e também não quer enviar aúdios!<strong/>
+<strong>Perfeito para quem está cansado de digitar todas as mensagens, e também não quer enviar áudios!<strong/>
 <div/>
 <br>
 <br>
