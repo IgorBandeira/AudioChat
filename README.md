@@ -1,7 +1,7 @@
 # AudioChat <img src="https://github.com/IgorBandeira/AudioChat/assets/106918230/e7442b94-3c35-45ca-8590-6f4b47111c31" alt="Mic Icon" width="60" style="margin-bottom: -10px;" />
 # `React com JavaScript`
-# `API de Audio`
-AudioChat coverte seu áudio em texto digitado para troca de mensagens, utiliza-se da Web API SpeechRecognition, é simulado em um smartphone criado com CSS, e possui tema do WhatsApp🎙️! 
+# `API de Áudio`
+AudioChat converte seu áudio em texto digitado para troca de mensagens, utiliza-se da Web API SpeechRecognition, é simulado em um smartphone criado com CSS, e possui tema do WhatsApp🎙️! 
 <br>
 <br>
 <div align="center">
