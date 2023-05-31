@@ -30,7 +30,7 @@ AudioChat coverte seu áudio em texto digitado para troca de mensagens, utiliza-
 <img src="https://github.com/IgorBandeira/AudioChat/assets/106918230/67e3eb54-2fc2-44ef-b143-d7d9d58b25f1"/>
 <hr>
 <br>
-<p>E então o seu áudio estará convertido em texto:<p/>
+<p>E então o seu áudio estará convertido em texto. É possível a edição manual do texto, a fim de introduzir pontuações mais assertivas:<p/>
 <br>
 <img src="https://github.com/IgorBandeira/AudioChat/assets/106918230/2ddc3558-d877-414a-8a91-a0122fc513de"/>
 
